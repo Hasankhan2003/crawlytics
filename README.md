@@ -1,8 +1,4 @@
-# BDA Assignment 02: Hadoop MapReduce Pipeline
-
-**Name:** Hasan  
-**ID:** i221945  
-**Course:** Big Data Analytics  
+# Crawlytics
 
 ## Overview
 This repository contains a complete 6-stage Hadoop MapReduce pipeline implemented using Python's Hadoop Streaming API. It processes raw Common Crawl web archive data (WET format) to clean the text, calculate word counts, generate word length and alphabet distributions, and ultimately produce a globally ranked list of the 50 most frequent meaningful words (excluding stop-words).
